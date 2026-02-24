@@ -36,4 +36,5 @@ Enter destination Y coordinate: 3
 Distance: 5.0
 Estimated travel time: 0.12 hours
 Program screenshot:
-![Output](output.png.jpge)
+output.png.jpeg
+
